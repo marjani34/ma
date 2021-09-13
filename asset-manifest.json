@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ma/static/css/main.ebc6e556.chunk.css",
+    "main.js": "/ma/static/js/main.b0182fdf.chunk.js",
+    "main.js.map": "/ma/static/js/main.b0182fdf.chunk.js.map",
+    "runtime-main.js": "/ma/static/js/runtime-main.9840fec2.js",
+    "runtime-main.js.map": "/ma/static/js/runtime-main.9840fec2.js.map",
+    "static/js/2.95f70925.chunk.js": "/ma/static/js/2.95f70925.chunk.js",
+    "static/js/2.95f70925.chunk.js.map": "/ma/static/js/2.95f70925.chunk.js.map",
+    "static/js/3.e72ed697.chunk.js": "/ma/static/js/3.e72ed697.chunk.js",
+    "static/js/3.e72ed697.chunk.js.map": "/ma/static/js/3.e72ed697.chunk.js.map",
+    "index.html": "/ma/index.html",
+    "static/css/main.ebc6e556.chunk.css.map": "/ma/static/css/main.ebc6e556.chunk.css.map",
+    "static/js/2.95f70925.chunk.js.LICENSE.txt": "/ma/static/js/2.95f70925.chunk.js.LICENSE.txt",
+    "static/media/checkmark.86776eae.png": "/ma/static/media/checkmark.86776eae.png",
+    "static/media/enabiz-logo-giris-eng.ede875db.png": "/ma/static/media/enabiz-logo-giris-eng.ede875db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9840fec2.js",
+    "static/js/2.95f70925.chunk.js",
+    "static/css/main.ebc6e556.chunk.css",
+    "static/js/main.b0182fdf.chunk.js"
+  ]
+}
